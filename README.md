@@ -1,2 +1,36 @@
-# opencognit-releases
-Installers and release notes for OpenCognit Desktop.
+# OpenCognit Desktop — Downloads
+
+Installers and release notes for **OpenCognit Desktop**, the command center for AI coding agents:
+run **Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side** in one window — on your
+machine, with the subscriptions you already have.
+
+> [!NOTE]
+> OpenCognit Desktop is in **beta**. Expect rough edges — feedback is very welcome on
+> [Discord](https://discord.gg/xASbhwdaS).
+
+## Download
+
+Grab the latest version from **[Releases](../../releases/latest)**:
+
+| System | File |
+|---|---|
+| Linux (any distro) | `OpenCognit-<version>.AppImage` — make it executable, then run it |
+| Debian / Ubuntu | `opencognit_<version>_amd64.deb` — `sudo apt install ./opencognit_<version>_amd64.deb` |
+| Windows | `OpenCognit-Setup-<version>.exe` *(coming soon)* |
+
+The app checks this page for new versions and offers updates itself — nothing else is sent.
+
+## What you need
+
+At least one coding CLI you already use, e.g. Claude Code, Codex, Gemini CLI, Kimi Code or
+Hermes. OpenCognit runs them with your existing logins and subscriptions.
+
+## Feedback & bugs
+
+Join the [Discord](https://discord.gg/xASbhwdaS) and post in `#bug-reports`: what you did, what you
+expected, a screenshot, your OS, CLI and OpenCognit version.
+
+---
+
+OpenCognit Desktop is proprietary software. This repository only contains release files, not the
+source code.
