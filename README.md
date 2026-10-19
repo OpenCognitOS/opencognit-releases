@@ -1,11 +1,27 @@
-# OpenCognit Desktop — Downloads
+<div align="center">
+
+<img width="2000" height="600" alt="OpenCognit" src="https://github.com/user-attachments/assets/186b7ef0-c1a9-415d-9225-72ff028bcdb0" />
+
+# OpenCognit Desktop
+
+**Every coding agent. One window.**
+
+Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, with the subscriptions you already have.
 
 [![GitHub Stars](https://img.shields.io/github/stars/OpenCognitOS/opencognit-releases?style=social)](https://github.com/OpenCognitOS/opencognit-releases/stargazers)
 [![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?include_prereleases&color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/OpenCognitOS/opencognit-releases/total?color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenCognitOS/opencognit-releases&type=Date)](https://star-history.com/#OpenCognitOS/opencognit-releases&Date)
+
 ⭐ **Like it? Star this repo** — it helps others find OpenCognit.
+
+</div>
+
+---
+
+## About
 
 Installers and release notes for **OpenCognit Desktop**, the command center for AI coding agents:
 run **Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side** in one window — on your
