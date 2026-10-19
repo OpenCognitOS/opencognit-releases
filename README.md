@@ -1,5 +1,12 @@
 # OpenCognit Desktop — Downloads
 
+[![GitHub Stars](https://img.shields.io/github/stars/OpenCognitOS/opencognit-releases?style=social)](https://github.com/OpenCognitOS/opencognit-releases/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?include_prereleases&color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/OpenCognitOS/opencognit-releases/total?color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20beta-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
+
+⭐ **Like it? Star this repo** — it helps others find OpenCognit.
+
 Installers and release notes for **OpenCognit Desktop**, the command center for AI coding agents:
 run **Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side** in one window — on your
 machine, with the subscriptions you already have.
