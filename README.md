@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="600" alt="OpenCognit" src="https://github.com/user-attachments/assets/186b7ef0-c1a9-415d-9225-72ff028bcdb0" />
+<img width="2000" height="600" alt="OpenCognit — Every coding agent. One window." src="assets/banner.jpg" />
 
 # OpenCognit Desktop
 
