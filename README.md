@@ -64,13 +64,13 @@ Grab the latest version from **[Releases](../../releases/latest)**:
 |---|---|
 | Linux (any distro) | `OpenCognit-<version>-x86_64.AppImage` — make it executable, then run it |
 | Debian / Ubuntu | `OpenCognit-<version>-amd64.deb` — `sudo apt install ./OpenCognit-<version>-amd64.deb` |
-| Windows | `OpenCognit-Setup-<version>.exe` *(coming soon)* |
+| Windows 10/11 | `OpenCognit-Setup-<version>.exe` — not signed yet: on a SmartScreen warning click „More info“ → „Run anyway“ |
 
 The app checks this page for new versions and offers updates itself — nothing else is sent.
 
 ## Requirements
 
-- **Linux, 64-bit (x86_64)** — Windows coming soon; ARM not yet supported
+- **Linux or Windows 10/11, 64-bit (x86_64)** — ARM not yet supported
 - **At least one coding CLI**, installed and logged in: Claude Code, Codex, Gemini CLI, Kimi Code or
   Hermes (they bring their own needs, usually Node.js; Hermes uses Python)
 - **Git** — recommended for snapshots, worktrees, variants and the review card
