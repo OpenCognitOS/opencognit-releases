@@ -68,10 +68,19 @@ Grab the latest version from **[Releases](../../releases/latest)**:
 
 The app checks this page for new versions and offers updates itself — nothing else is sent.
 
-## What you need
+## Requirements
 
-At least one coding CLI you already use, e.g. Claude Code, Codex, Gemini CLI, Kimi Code or
-Hermes. OpenCognit runs them with your existing logins and subscriptions.
+- **Linux, 64-bit (x86_64)** — Windows coming soon; ARM not yet supported
+- **At least one coding CLI**, installed and logged in: Claude Code, Codex, Gemini CLI, Kimi Code or
+  Hermes (they bring their own needs, usually Node.js; Hermes uses Python)
+- **Git** — recommended for snapshots, worktrees, variants and the review card
+  (the `.deb` installs it for you)
+- Optional: GitHub CLI (`gh`) for pull requests, whisper.cpp for voice input
+
+> [!TIP]
+> **AppImage won't start?** Newer Ubuntu versions don't ship FUSE 2 anymore:
+> `sudo apt install libfuse2t64` (Ubuntu 24.04) or `sudo apt install libfuse2` (22.04).
+> The `.deb` doesn't need it.
 
 ## Feedback & bugs
 
