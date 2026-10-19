@@ -21,6 +21,31 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 
 ---
 
+## See it in action
+
+<p align="center">
+  <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">
+    <img src="assets/teaser-poster.jpg" width="820" alt="Watch the 30-second teaser" />
+  </a>
+  <br />
+  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 30-second teaser</a></sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screens/grid.jpg" alt="Grid" /><br /><b>Grid</b> — every agent in a real terminal, side by side</td>
+    <td width="50%"><img src="assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
+  </tr>
+  <tr>
+    <td><img src="assets/screens/kosmos.jpg" alt="Kosmos" /><br /><b>Kosmos</b> — watch live who reads or edits which file</td>
+    <td><img src="assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
+  </tr>
+  <tr>
+    <td><img src="assets/screens/preview.jpg" alt="Preview" /><br /><b>Live preview</b> — the result right next to your agents</td>
+    <td><img src="assets/screens/editor.jpg" alt="Editor" /><br /><b>Editor & Git</b> — review and commit without a second app</td>
+  </tr>
+</table>
+
 ## About
 
 Installers and release notes for **OpenCognit Desktop**, the command center for AI coding agents:
@@ -37,8 +62,8 @@ Grab the latest version from **[Releases](../../releases/latest)**:
 
 | System | File |
 |---|---|
-| Linux (any distro) | `OpenCognit-<version>.AppImage` — make it executable, then run it |
-| Debian / Ubuntu | `opencognit_<version>_amd64.deb` — `sudo apt install ./opencognit_<version>_amd64.deb` |
+| Linux (any distro) | `OpenCognit-<version>-x86_64.AppImage` — make it executable, then run it |
+| Debian / Ubuntu | `OpenCognit-<version>-amd64.deb` — `sudo apt install ./OpenCognit-<version>-amd64.deb` |
 | Windows | `OpenCognit-Setup-<version>.exe` *(coming soon)* |
 
 The app checks this page for new versions and offers updates itself — nothing else is sent.
