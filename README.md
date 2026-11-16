@@ -25,10 +25,10 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 
 <p align="center">
   <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">
-    <img src="assets/teaser-poster.jpg" width="820" alt="Watch the 30-second teaser" />
+    <img src="assets/teaser-poster.jpg" width="820" alt="Watch the 20-second teaser" />
   </a>
   <br />
-  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 30-second teaser</a></sub>
+  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 20-second teaser</a></sub>
 </p>
 
 <p align="center">
@@ -43,8 +43,12 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
     <td width="50%"><img src="assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
   </tr>
   <tr>
-    <td><img src="assets/screens/kosmos.jpg" alt="Kosmos" /><br /><b>Kosmos</b> — watch live who reads or edits which file</td>
+    <td><img src="assets/screens/kosmos.jpg" alt="Cosmos" /><br /><b>Cosmos</b> — your project in 3D: who reads or edits which file, live</td>
     <td><img src="assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
+  </tr>
+  <tr>
+    <td><img src="assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
+    <td><img src="assets/screens/neurons.jpg" alt="Neurons" /><br /><b>Neurons</b> — agents firing through your codebase</td>
   </tr>
   <tr>
     <td><img src="assets/screens/preview.jpg" alt="Preview" /><br /><b>Live preview</b> — the result right next to your agents</td>
