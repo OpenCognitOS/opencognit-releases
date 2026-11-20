@@ -43,12 +43,12 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
     <td width="50%"><img src="assets/screens/orchestrator.jpg" alt="Orchestrator" /><br /><b>Orchestrator</b> — describe a goal, it hands out the work</td>
   </tr>
   <tr>
-    <td><img src="assets/screens/kosmos.jpg" alt="Cosmos" /><br /><b>Cosmos</b> — your project in 3D: who reads or edits which file, live</td>
+    <td><img src="assets/screens/atlas.jpg" alt="Atlas" /><br /><b>Atlas</b> — your project as a brain map: which agent works in which area</td>
     <td><img src="assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
   </tr>
   <tr>
     <td><img src="assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
-    <td><img src="assets/screens/neurons.jpg" alt="Neurons" /><br /><b>Neurons</b> — agents firing through your codebase</td>
+    <td><img src="assets/screens/layers.jpg" alt="Layers" /><br /><b>Layers</b> — agents, project areas and outcome at a glance</td>
   </tr>
   <tr>
     <td><img src="assets/screens/preview.jpg" alt="Preview" /><br /><b>Live preview</b> — the result right next to your agents</td>
