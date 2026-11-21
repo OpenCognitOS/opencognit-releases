@@ -1,17 +1,20 @@
 <div align="center">
 
-<img width="2000" height="600" alt="OpenCognit — Every coding agent. One window." src="assets/banner.jpg" />
+<img width="1200" alt="OpenCognit — You think. They build." src="assets/banner.jpg" />
 
 # OpenCognit Desktop
 
-**Every coding agent. One window.**
+**You think. They build.**
 
 Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, with the subscriptions you already have.
 
-[![GitHub Stars](https://img.shields.io/github/stars/OpenCognitOS/opencognit-releases?style=social)](https://github.com/OpenCognitOS/opencognit-releases/stargazers)
-[![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?include_prereleases&color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?color=d8b46a&label=release)](https://github.com/OpenCognitOS/opencognit-releases/releases/latest)
 [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopencognit.com%2Fstats.json&query=%24.downloads&label=downloads&color=d8b46a)](https://github.com/OpenCognitOS/opencognit-releases/releases)
+[![Website](https://img.shields.io/badge/website-opencognit.com-d8b46a)](https://opencognit.com)
 [![Discord](https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/xASbhwdaS)
+
+**[⬇ Download for Linux](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-x86_64.AppImage)** · **[⬇ Download for Windows](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-windows-setup.exe)** · [.deb](https://github.com/OpenCognitOS/opencognit-releases/releases/latest/download/OpenCognit-linux-amd64.deb) · [All releases](https://github.com/OpenCognitOS/opencognit-releases/releases)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenCognitOS/opencognit-releases&type=Date)](https://star-history.com/#OpenCognitOS/opencognit-releases&Date)
 
@@ -20,16 +23,6 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
 </div>
 
 ---
-
-## See it in action
-
-<p align="center">
-  <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">
-    <img src="assets/teaser-poster.jpg" width="820" alt="Watch the 20-second teaser" />
-  </a>
-  <br />
-  <sub>▶ <a href="https://github.com/OpenCognitOS/opencognit-releases/raw/main/assets/teaser.mp4">Watch the 20-second teaser</a></sub>
-</p>
 
 <p align="center">
   <img src="assets/screens/neurons.webp" width="820" alt="Neurons: agents as rings, pulses in their colour" />
@@ -44,11 +37,11 @@ Run Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side — locally, wi
   </tr>
   <tr>
     <td><img src="assets/screens/atlas.jpg" alt="Atlas" /><br /><b>Atlas</b> — your project as a brain map: which agent works in which area</td>
-    <td><img src="assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
+    <td><img src="assets/screens/layers.jpg" alt="Layers" /><br /><b>Layers</b> — agents, project areas and outcome at a glance</td>
   </tr>
   <tr>
+    <td><img src="assets/screens/guardrails.jpg" alt="Guardrails" /><br /><b>Guardrails</b> — risky commands wait for your OK</td>
     <td><img src="assets/screens/tasks.jpg" alt="Task wall" /><br /><b>Task wall</b> — every task traced from start to commit</td>
-    <td><img src="assets/screens/layers.jpg" alt="Layers" /><br /><b>Layers</b> — agents, project areas and outcome at a glance</td>
   </tr>
   <tr>
     <td><img src="assets/screens/preview.jpg" alt="Preview" /><br /><b>Live preview</b> — the result right next to your agents</td>
@@ -81,7 +74,7 @@ The app checks this page for new versions and offers updates itself — nothing 
   Hermes (they bring their own needs, usually Node.js; Hermes uses Python)
 - **Git** — recommended for snapshots, worktrees, variants and the review card
   (the `.deb` installs it for you)
-- Optional: GitHub CLI (`gh`) for pull requests, whisper.cpp for voice input
+- Optional: GitHub CLI (`gh`) for pull requests
 
 > [!TIP]
 > **AppImage won't start?** Newer Ubuntu versions don't ship FUSE 2 anymore:
